@@ -1112,18 +1112,33 @@
       "1603745663be86b54b": {
         "type": "home-hero-banner",
         "blocks": {
+          "9b58523a-dd7d-4811-a84c-7e3a30a6cab0": {
+            "type": "gallery_image",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/122122_January_HomepageBanner_Desktop.png",
+              "background_image_mobile": "shopify:\/\/shop_images\/122122_January_HomepageBanner_Mobile.png",
+              "title": "The clean, clinical method.",
+              "short_text": "A professional-grade home routine for truly radiant, glowing skin.",
+              "text_color": "#000000",
+              "cta": "SHOP NOW",
+              "banner_cta_color": "#ffffff",
+              "link": "",
+              "desktop_banner_content_position": "float: right !important;",
+              "banner_content_position": "padding: 322px 0 55px !important;"
+            }
+          },
           "e2413097-cb86-41d4-a3bd-66e636662be2": {
             "type": "gallery_image",
             "settings": {
-              "background_image": "shopify:\/\/shop_images\/HolidayKits_2022_HomepageBanner_Desktop2_NoText.png",
-              "background_image_mobile": "shopify:\/\/shop_images\/HolidayKits_2022_HomepageBanner_Mobile2_NoText.png",
+              "background_image": "shopify:\/\/shop_images\/102722_HolidayKits_HomepageBanner_Desktop_v3.png",
+              "background_image_mobile": "shopify:\/\/shop_images\/102722_HolidayKits_HomepageBanner_Mobile_NoText.png",
               "title": "THREE NEW FAVORITES",
               "short_text": "Introducing three new skincare sets made for any routine, every skin type, and all gift lists.",
               "text_color": "#393939",
               "cta": "SHOP NOW",
               "banner_cta_color": "#ffffff",
               "link": "shopify:\/\/collections\/gift-value-sets",
-              "desktop_banner_content_position": "float: left !important;",
+              "desktop_banner_content_position": "float: right !important;",
               "banner_content_position": "padding: 0px 0 550px !important;"
             }
           },
@@ -1216,6 +1231,7 @@
           }
         },
         "block_order": [
+          "9b58523a-dd7d-4811-a84c-7e3a30a6cab0",
           "e2413097-cb86-41d4-a3bd-66e636662be2",
           "dd9692bf-997f-4484-82d2-fd8afc0e3d9b",
           "3500ff0a-74f8-4a0f-b0e6-4663124e08aa",
