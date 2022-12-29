@@ -16,7 +16,7 @@
                   background-image: url({{ block.settings.background_image | img_url: 'master' }});
               }
               @media (min-width: 768px) {
-                  .content {
+                  .banner_{{ forloop.index }} > .container > .content {
                       {{ block.settings.desktop_banner_content_position }}
                   }
               }

@@ -2502,7 +2502,7 @@ NOTE: must specify z-index values for siblings.*/
 
 .bg-loading, .bg-loaded {
 		background-color: $c-background;
-		// background: url(//cdn.shopify.com/s/files/1/0345/0444/1995/t/13/assets/load-more.gif?v=105504350779115787771669682575) white center center no-repeat;
+		// background: url(//cdn.shopify.com/s/files/1/0345/0444/1995/t/16/assets/load-more.gif?v=105504350779115787771672266241) white center center no-repeat;
 		// background-size: 79px 64px !important;
 }
 
@@ -9461,7 +9461,7 @@ hr {
 .load-more-icon {
 	width: 79px;
 	height: 64px;
-	background: url(//cdn.shopify.com/s/files/1/0345/0444/1995/t/13/assets/load-more.gif?v=105504350779115787771669682575) no-repeat;
+	background: url(//cdn.shopify.com/s/files/1/0345/0444/1995/t/16/assets/load-more.gif?v=105504350779115787771672266241) no-repeat;
 	background-size: contain;
 	margin: 0 auto;
 	display: none;
@@ -11214,7 +11214,7 @@ h1#password-logo a{
 	&.zoom--is-loading {
 		&::after {
 			@include blockAb;
-			background-image: url('//cdn.shopify.com/s/files/1/0345/0444/1995/t/13/assets/load-more.gif?v=105504350779115787771669682575');
+			background-image: url('//cdn.shopify.com/s/files/1/0345/0444/1995/t/16/assets/load-more.gif?v=105504350779115787771672266241');
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: 79px 64px !important;
@@ -12883,7 +12883,7 @@ https://flickity.metafizzy.co
 								display: block;
 								width: 79px;
 								height: 64px;
-								background: url(//cdn.shopify.com/s/files/1/0345/0444/1995/t/13/assets/load-more.gif?v=105504350779115787771669682575) no-repeat;
+								background: url(//cdn.shopify.com/s/files/1/0345/0444/1995/t/16/assets/load-more.gif?v=105504350779115787771672266241) no-repeat;
 								background-size: contain;
 								margin: 15px auto;
 							}
@@ -16438,7 +16438,7 @@ body.allow-animations {
 			&.lazyloading {
 			  opacity: .65;
 			  background-color: $c-background;
-			  background-image: url( "//cdn.shopify.com/s/files/1/0345/0444/1995/t/13/assets/loader.svg?v=170061305488833709821669682575" );
+			  background-image: url( "//cdn.shopify.com/s/files/1/0345/0444/1995/t/16/assets/loader.svg?v=170061305488833709821672266241" );
 			  background-size: 64px auto !important;
 			  background-repeat: no-repeat;
 			  background-position: center center;
