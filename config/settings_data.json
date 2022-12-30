@@ -1112,8 +1112,24 @@
       "1603745663be86b54b": {
         "type": "home-hero-banner",
         "blocks": {
+          "055136a1-26a5-4310-a026-5c38aabd5c4f": {
+            "type": "gallery_image",
+            "settings": {
+              "background_image": "shopify:\/\/shop_images\/122122_January_HomepageBanner_Desktop.png",
+              "background_image_mobile": "shopify:\/\/shop_images\/122122_January_HomepageBanner_Mobile.png",
+              "title": "The clean, clinical method.",
+              "short_text": "A professional-grade home routine for truly radiant, glowing skin.",
+              "text_color": "#393939",
+              "cta": "SHOP NOW",
+              "banner_cta_color": "#ffffff",
+              "link": "shopify:\/\/collections\/best-sellers",
+              "desktop_banner_content_position": "float: left !important;",
+              "banner_content_position": "padding: 0px 0 550px !important;"
+            }
+          },
           "e2413097-cb86-41d4-a3bd-66e636662be2": {
             "type": "gallery_image",
+            "disabled": true,
             "settings": {
               "background_image": "shopify:\/\/shop_images\/HolidayKits_2022_HomepageBanner_Desktop2_NoText.png",
               "background_image_mobile": "shopify:\/\/shop_images\/HolidayKits_2022_HomepageBanner_Mobile2_NoText.png",
@@ -1216,6 +1232,7 @@
           }
         },
         "block_order": [
+          "055136a1-26a5-4310-a026-5c38aabd5c4f",
           "e2413097-cb86-41d4-a3bd-66e636662be2",
           "dd9692bf-997f-4484-82d2-fd8afc0e3d9b",
           "3500ff0a-74f8-4a0f-b0e6-4663124e08aa",
